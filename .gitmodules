@@ -1,0 +1,3 @@
+[submodule "Plugins/CustomEditorHotkeys"]
+	path = Plugins/CustomEditorHotkeys
+	url = https://github.com/SolidSquib/ue-custom-editor-hotkeys.git
